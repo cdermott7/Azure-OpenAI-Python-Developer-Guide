@@ -76,7 +76,7 @@ var openAiSettings = {
     }
     sku: {
       name: 'Standard'
-      capacity: 120
+      capacity: 30
     }
   }
   embeddingsModel: {
@@ -87,7 +87,7 @@ var openAiSettings = {
     }
     sku: {
       name: 'Standard'
-      capacity: 120     
+      capacity: 30     
     }
   }
 }
